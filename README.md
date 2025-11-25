@@ -1,1 +1,1 @@
-# coop-projects
+# coop and school projects
